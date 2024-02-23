@@ -1,0 +1,17 @@
+accelerate
+huggingface-hub
+numpy
+peft
+scipy
+sympy
+tensorboard
+tokenizers
+torch
+torch-summary
+torchvision
+tqdm
+transformers
+scikit-learn
+pandas
+tensorflow
+matplotlib
