@@ -23,6 +23,10 @@
 The proposed framework for Uni-CTR comprises three parts,. Initially, the input text undergoes processing via the selected **LLM Backbone** to extract the commonalities and distinctions of the data across domains. Subsequently, Subsequently, LLM provides the representations obtained from different layers to the **domain-specific networks** to learn domain-specific characteristics. Additionally, a **general network** is incorporated to learn the representations of all known domains, which enables zero-shot prediction of newly unseen domains.
 
 [A Unified Framework for Multi-Domain CTR Prediction via Large Language Models](https://arxiv.org/abs/2312.10743)
+![avatar](./figure/model.PNG)
+![avatar](./figure/performance.PNG)
+
+
 
 # [Dataset](#contents)
 
