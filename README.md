@@ -1,3 +1,5 @@
+20204 08 25 We are pleased to announce that our paper has been accepted for publication in **TOIS** (ACM Transactions on Information Systems) 🎉🎉!
+
 # Contents
 
 - [Uni-CTR Description](#uni-ctr-description)
