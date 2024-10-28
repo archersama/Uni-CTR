@@ -2,7 +2,7 @@ name: Sync from Uni-CTR
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # 每天凌晨2点（UTC）
+    - cron: '0 2 1 * *'  # 每天凌晨2点（UTC）
   workflow_dispatch:  # 允许手动触发
 
 jobs:
